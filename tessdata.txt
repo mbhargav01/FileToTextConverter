@@ -1,0 +1,3 @@
+In "src\main\resources\tessdata" folder add tessdata files
+
+tessdata-main.zip
